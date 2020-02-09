@@ -1,0 +1,8 @@
+datos.iml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+target/classes/Conexion.class
+target/classes/Inicio.class
+*.class
